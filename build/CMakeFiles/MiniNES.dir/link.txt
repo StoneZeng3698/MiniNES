@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\MiniNES.dir/objects.a
+C:\Compiler\mingw64\bin\ar.exe cr CMakeFiles\MiniNES.dir/objects.a @CMakeFiles\MiniNES.dir\objects1.rsp
+C:\Compiler\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\MiniNES.dir/objects.a -Wl,--no-whole-archive -o MiniNES.exe -Wl,--out-implib,libMiniNES.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MiniNES.dir\linklibs.rsp

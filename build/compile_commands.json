@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Project/MiniNES/build",
+  "command": "C:\\Compiler\\mingw64\\bin\\g++.exe  @CMakeFiles/MiniNES.dir/includes_CXX.rsp -g -o CMakeFiles\\MiniNES.dir\\main.cpp.obj -c D:\\Project\\MiniNES\\main.cpp",
+  "file": "D:/Project/MiniNES/main.cpp"
+}
+]
